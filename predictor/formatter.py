@@ -14,7 +14,7 @@ def format_prediction(prediction):
   🏅 Predicted Winner:    {prediction['predicted_winner']}
   📊 Confidence:          {prediction['confidence']}
 ╚══════════════════════════════════════════════╝
-""" ##ChatGpt was used to make this "prettier"
+""" ##Claude formart suggestion, might change
 
 def format_teams_list(teams):
     """Format list of teams for CLI display"""
